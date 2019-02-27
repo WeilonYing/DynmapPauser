@@ -1,0 +1,2 @@
+# Pause dynmap rendering when player count exceeds this number.
+player-count-limit: 5
